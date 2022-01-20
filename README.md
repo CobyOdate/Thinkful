@@ -1,2 +1,0 @@
-# Thinkful
-Practice Material
